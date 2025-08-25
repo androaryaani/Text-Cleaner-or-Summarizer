@@ -2,6 +2,8 @@
 
 A Python CLI tool and Streamlit dashboard that cleans noisy text (ads, special characters, stopwords) and generates concise summaries using Google Gemini API. Supports multiple input formats including text files, PDFs, Word documents, HTML files, JSON files, and URLs.
 
+Live-Demo : https://text-cleaner-or-summarizer.streamlit.app/
+
 ## Features
 
 - **Multi-format Input Support**:
